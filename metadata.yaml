@@ -1,0 +1,41 @@
+_repo: The-Life-Work-of-FlaubertFrom-the-Russian-of-Merejowski_33933
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mounsey, G. A. (George Augustus)
+    alias: Mounsey, George Augustus
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '36722'
+    url: http://www.gutenberg.org/2009/agents/36722
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Mérejkowsky, Dmitry de
+    - Mérejkowski, Dmitri
+    - Мережковский, Дмитрий Сергеевич
+    - Merejkowsky, Dmitry de
+    - Merejkowski, Dmitri
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: http://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+description: ''
+gutenberg_issued: '2010-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flaubert, Gustave, 1821-1880'
+- !lcc 'PQ'
+title: The Life-Work of Flaubert, from the Russian of Merejowski
+url: http://www.gutenberg.org/ebooks/33933
